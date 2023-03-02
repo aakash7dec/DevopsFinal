@@ -34,6 +34,9 @@ function Home() {
                   />
                   <h3 className="shoe-name">{shoe.name} AirJordans</h3>
                   <h3 className="shoe-price">${shoe.price}40000 </h3>
+                  <h3 className="shoe-name">{shoe.name} NikeStud</h3>
+                  <h3 className="shoe-price">${shoe.price}35000 </h3>
+                
                 </div>
               );
             })}
