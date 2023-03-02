@@ -15,7 +15,7 @@ function About() {
         <h2 className="about-nike-heading">About Nike</h2>
         <p className='about-nike-para'>
           Our mission is what drives us to do everything possible to expand
-          human potential. We do that by creating groundbreaking sport
+          human potential. We do that by creating ground breaking sport
           innovations, by making our products more sustainable, by building a
           creative and diverse global team and by making a positive impact in
           communities where we live and work. Based in Beaverton, Oregon, NIKE,
@@ -23,6 +23,7 @@ function About() {
         </p>
       </div>
     </div>
+  );
 }
 
 export default About;
