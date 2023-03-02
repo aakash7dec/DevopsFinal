@@ -9,7 +9,7 @@ function Footer() {
         <div className="footer-content">
           <div className="footer-section about">
             <p className="footer-para">
-              Developer: <span className="my-name"><a href ="https://www.instagram.com/mohan_2808_/</span>">Alpha_roy punde ku </a></span>
+              Developer: <span className="my-name"><a href ="https://www.youtube.com/watch?v=jDfTsK1S8fE</span>">Alpha_roy punde ku </a></span>
             </p>
 
             <div className="contact"></div>
