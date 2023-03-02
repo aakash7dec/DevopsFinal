@@ -9,8 +9,7 @@ function Footer() {
         <div className="footer-content">
           <div className="footer-section about">
             <p className="footer-para">
-              </a>
-              Developer: <span className="my-name"><a href ="https://www.instagram.com/mohan_2808_/ </span>">Alpha_roy  </a></span>
+              Developer: <span className="my-name"> alpha roy</span>
             </p>
 
             <div className="contact"></div>
@@ -18,7 +17,7 @@ function Footer() {
               <a
                 href="https://www.facebook.com/profile.php?id=100041078220896"
                 target="_blank"
-                rel="noopener noreferrer" 
+                rel="noopener noreferrer"
               >
                 <i className="fab fa-facebook"></i>
               </a>
@@ -45,7 +44,7 @@ function Footer() {
               </a>
             </div>
             <p className="copyright">
-              Copyright&nbsp;&copy;&nbsp;Nike shoes alpha_roy
+              Copyright&nbsp;&copy;&nbsp;Nike shoes alpharoy
             </p>
             <br />
           </div>
